@@ -13,6 +13,10 @@ The goal is to automatically sync code changes pushed to GitLab so that they rep
 - Demonstrate real-time sync capability  
 
 ---
+## Architecture Diagram
+
+![GitLab Repo](./img/gitlab_github_mirroring_architecture.png)
+---
 
 ## 🧰 Technologies Used
 - Git
