@@ -77,7 +77,7 @@ The goal is to automatically sync code changes pushed to GitLab so that they rep
 
 ![GitLab Repo](./img/gitlab-repo-code.png) 
 ##
-![GitLab Repo](./img/mirroring-gitlab-to-github-2.png)
+![GitLab Repo](./img/github-repo-code.png)
 ---
 
 
